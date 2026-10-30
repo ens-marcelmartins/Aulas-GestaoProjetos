@@ -8,7 +8,7 @@
     <div>
         <h1>Meus Trabalhos</h1>
         <h3>Gestão de Projetos</h3>
-        <p>Aqui estão listados os trabalhos da faculdade.</p>
+        <p>Aqui estão listados todos os trabalhos feitos durante o semestre.</p>
     </div>
 </body>
 </html>
