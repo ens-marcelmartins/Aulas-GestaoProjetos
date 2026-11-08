@@ -1,0 +1,4 @@
+.env
+debug.log
+segredo.txt
+node_modules/
